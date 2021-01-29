@@ -38,3 +38,4 @@ spec:
   - key: "node.kubernetes.io/unreachable"
     operator: "Exists"
   hostNetwork: true
+  nodeName: k8s1
